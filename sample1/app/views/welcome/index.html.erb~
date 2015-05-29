@@ -1,0 +1,2 @@
+<h1>hello world Shopify soluship app on </h1> <%=@date%>
+<p>HELLO JIIT.</p>
